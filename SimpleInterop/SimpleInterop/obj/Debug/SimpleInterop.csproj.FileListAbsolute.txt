@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\bin\Debug\SimpleInterop.exe.config
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\bin\Debug\SimpleInterop.exe
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\bin\Debug\SimpleInterop.pdb
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\obj\Debug\SimpleInterop.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\obj\Debug\SimpleInterop.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\obj\Debug\SimpleInterop.exe
+C:\Users\anuwat\source\repos\SimpleInterop\SimpleInterop\obj\Debug\SimpleInterop.pdb
