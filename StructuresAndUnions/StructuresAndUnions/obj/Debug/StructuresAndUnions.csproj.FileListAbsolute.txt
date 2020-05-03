@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\bin\Debug\StructuresAndUnions.exe.config
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\bin\Debug\StructuresAndUnions.exe
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\bin\Debug\StructuresAndUnions.pdb
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\obj\Debug\StructuresAndUnions.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\obj\Debug\StructuresAndUnions.exe
+C:\Users\anuwat\source\repos\StructuresAndUnions\StructuresAndUnions\obj\Debug\StructuresAndUnions.pdb
