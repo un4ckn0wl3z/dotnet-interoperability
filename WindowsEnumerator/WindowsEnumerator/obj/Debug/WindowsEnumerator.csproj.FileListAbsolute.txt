@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\bin\Debug\WindowsEnumerator.exe.config
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\bin\Debug\WindowsEnumerator.exe
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\bin\Debug\WindowsEnumerator.pdb
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\obj\Debug\WindowsEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\obj\Debug\WindowsEnumerator.exe
+C:\Users\anuwat\source\repos\WindowsEnumerator\WindowsEnumerator\obj\Debug\WindowsEnumerator.pdb
