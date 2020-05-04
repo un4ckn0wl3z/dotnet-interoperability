@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\bin\Debug\ObjectPinning.exe.config
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\bin\Debug\ObjectPinning.exe
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\bin\Debug\ObjectPinning.pdb
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\obj\Debug\ObjectPinning.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\obj\Debug\ObjectPinning.exe
+C:\Users\anuwat\source\repos\ObjectPinning\ObjectPinning\obj\Debug\ObjectPinning.pdb

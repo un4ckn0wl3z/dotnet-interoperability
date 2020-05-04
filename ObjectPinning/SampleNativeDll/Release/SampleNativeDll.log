@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  SampleNativeDll.cpp
+     Creating library C:\Users\anuwat\source\repos\ObjectPinning\Release\SampleNativeDll.lib and object C:\Users\anuwat\source\repos\ObjectPinning\Release\SampleNativeDll.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SampleNativeDll.vcxproj -> C:\Users\anuwat\source\repos\ObjectPinning\Release\SampleNativeDll.dll
